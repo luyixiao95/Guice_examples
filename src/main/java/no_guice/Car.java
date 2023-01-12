@@ -1,2 +1,5 @@
-package no_guice;public interface Car {
+package no_guice;
+
+interface Car {
+    int drive();
 }
